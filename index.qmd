@@ -1,7 +1,13 @@
 ---
-title: "assignment-3-nf295"
+title: "Home"
 ---
 
-This is a Quarto website.
+## Assignment 3 Collab Website
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Naomi Fassin: <https://github.com/NaomiFassin>
+
+Patrick Shea:
+
+![](https://smb.ibsrv.net/imageresizer/image/article_manager/1200x1200/20586/516506/heroimage0.327162001643150501.jpg)
+
+Yawning Kitten!!
